@@ -102,9 +102,9 @@ nav:hover > a:not(:hover) {
 }
 
 .title h1 {
-  font-size: 15rem;
+  font-size: 10rem;
   font-weight: 800;
-  letter-spacing: 50px;
+  letter-spacing: 40px;
   text-transform: uppercase;
   color: white;
   text-align: center;
@@ -270,4 +270,5 @@ nav {
 
 .slider {
   animation: zoomOut 1.2s ease-out forwards;
+
 }
